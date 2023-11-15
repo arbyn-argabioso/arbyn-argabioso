@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**arbyn-argabioso/arbyn-argabioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arbyn Argabioso, an Electronics Engineer disguised as a Software Engineer from the Philippines 🇵🇭
+In my free time, I enjoy pursuing my interest in genealogy, where I apply my technical experience to uncover hidden stories and connections that bring my family's histories to life. You can visit [my family tree](https://arbyn.argabioso.com/family) if you want 😋
 
-Here are some ideas to get you started:
+I mainly work on Back End projects and features with specializations in Data Engineering, Microservice Development, and Platform Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack and Tools 🛠
+
+| Category                                                               | Items                                                                                                                                                                                                                                                                                                                                                                       |
+| :--------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Languages](https://img.shields.io/badge/-Languages-black?style=flat) | ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76)     |
+| ![Databases](https://img.shields.io/badge/-Databases-black?style=flat) | ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-1496FF?style=flat&logo=amazondynamodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| ![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat)       | ![GitHub Action](https://img.shields.io/badge/-GitHub_Actions-181717?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws)                                                                                                                                                                    |

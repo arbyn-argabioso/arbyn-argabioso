@@ -3,7 +3,7 @@
 I'm Arbyn Argabioso, an Electronics Engineer disguised as a Software Engineer from the Philippines 🇵🇭
 In my free time, I enjoy pursuing my interest in genealogy, where I apply my technical experience to uncover hidden stories and connections that bring my family's histories to life. You can visit [my family tree](https://arbyn.argabioso.com/family) if you want 😋
 
-I mainly work on Back End projects and features with specializations in Data Engineering, Microservice Development, and Platform Engineering.
+I mainly work on Back End projects and features with specializations in Data Engineering, Microservice Development, and Platform Engineering 👨🏻‍💻 If you're interested in my past work, you can visit [my online resume](https://arbyn.argabioso.com/resume).
 
 ### Tech Stack and Tools 🛠
 
